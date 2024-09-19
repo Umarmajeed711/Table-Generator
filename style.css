@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Marmelad&display=swap');
+h1{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 600;
+    color: #fff;
+}
+
+
+@media only screen and (max-width:575px){
+    #tableno{
+        width: 60vw !important;
+    }
+    #table{
+        width: 70vw !important;
+        
+    }
+
+    
+}
